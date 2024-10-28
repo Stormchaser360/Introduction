@@ -1,0 +1,34 @@
+<html>
+
+<head>
+    <style>
+        html {
+            font-size: 20px;
+            background-color: blue;
+            color: white;
+            font-family: Georgia, 'Times New Roman', Times, serif;
+        }
+
+        #test {
+            background-color: aqua;
+            color: black;
+            font-size: 25px;
+            text-align: right;
+        }
+    </style>
+</head>
+
+<body>
+    <p>Hi This Is A Paraghraph About Basket Ball : Basketball is played with a set of rules and terms. It is a two-team
+        game where both teams compete to score the maximum
+        points. Each team has twelve players; where five players play, and seven are seated on the bench. A team can
+        score one,
+        two, or three points by successfully shooting the ball in the hoop.</p>
+    <div id="test">Basketball is played with a set of rules and terms. It is a two-team game where both teams compete to
+        score the maximum
+        points. Each team has twelve players; where five players play, and seven are seated on the bench. A team can
+        score one,
+        two, or three points by successfully shooting the ball in the hoop.</div>
+</body>
+
+</html>
